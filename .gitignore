@@ -1,0 +1,9 @@
+.env
+.env.*
+pending-institutions.json
+location-candidates.json
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+enc.json
